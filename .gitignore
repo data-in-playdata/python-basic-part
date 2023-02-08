@@ -4,3 +4,5 @@ pratice.py
 *.csv
 *.txt
 data/
+ignore_folder
+markdown.ipynb
