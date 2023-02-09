@@ -4,6 +4,5 @@
 2. Numpy
 3. Pandas
 4. Seaborn
-5. Folium  
-
+5. Folium
 이렇게 다섯 가지의 내용을 포함합니다.
